@@ -45,7 +45,7 @@ llm = ChatOpenAI(
     openai_api_key=key_param.LLM_API_KEY, temperature=0, model="gpt-3.5-turbo"
 )
 
-document_transformer = create_metadata_tagger(metadata_schema=schema, llm=llm)
+document_transformer = create_metadata_tagger(metadata_schema=schema, llm=llm) # Langchain method that helps us to create metadata
 
 docs = document_transformer.transform_documents(cleaned_pages)
 

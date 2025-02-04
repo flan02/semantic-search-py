@@ -12,4 +12,6 @@ there are some examples about configuration of our RAG
 
 3 - Store
 
+- more examples will be added soon
+
 

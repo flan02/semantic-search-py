@@ -1,0 +1,23 @@
+# 19 python libraries every AI engineer should know
+
+# Source: https://www.youtube.com/watch?v=p4G0coRey9w
+
+pydantic
+pydantic settings
+python dotenv
+fastAPI
+celery
+databases
+SQLAlchemy
+alembic
+pandas
+numpy
+llm model providers
+instructor
+llm frameworks
+vector databases
+observability
+dspy
+pdf parsers
+jinja
+pymupdf

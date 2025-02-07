@@ -1,6 +1,6 @@
 # Mongodb Atlas Vector Search
 
-Some files reading data using semantic search
+Some files reading data using semantic search. Written in python or javascript
 
 there are some examples about configuration of our RAG
 
